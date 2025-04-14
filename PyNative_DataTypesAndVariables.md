@@ -1,1 +1,1 @@
-![PyNative_DataTypesAndVariables](https://github.com/user-attachments/assets/27f204f2-41bf-4c73-ba70-51587d3ef54b)
+![PyNative_DataTypesAndVariables](https://github.com/user-attachments/assets/6f11a999-8611-4daa-8e61-0dbc8d0b9656)
