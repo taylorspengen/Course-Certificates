@@ -1,1 +1,1 @@
-![PyNative_Basics](https://github.com/user-attachments/assets/7f0f8279-eb3d-47e8-89d1-6b9880191887)
+![PyNative_Basics](https://github.com/user-attachments/assets/f609c2a2-ca24-41e8-8d15-983e5b09faf5)
